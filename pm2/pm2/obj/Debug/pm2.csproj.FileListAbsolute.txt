@@ -1,0 +1,11 @@
+C:\Users\david\source\repos\pm2\pm2\bin\Debug\pm2.exe.config
+C:\Users\david\source\repos\pm2\pm2\bin\Debug\pm2.exe
+C:\Users\david\source\repos\pm2\pm2\bin\Debug\pm2.pdb
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.Form1.resources
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.Properties.Resources.resources
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.csproj.GenerateResource.cache
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.exe
+C:\Users\david\source\repos\pm2\pm2\obj\Debug\pm2.pdb
